@@ -21,7 +21,7 @@ An embedded systems project implementing a password-protected access control sys
 
 
 ## Code
-//Haris Mustafa Awan
+
 #include "p18f452.h"
 #pragma config OSC = HS
 #pragma config WDT = OFF
